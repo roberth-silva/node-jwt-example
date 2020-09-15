@@ -66,4 +66,4 @@ app.post('/logout', function(req,res){
 var server = http.createServer(app); 
 server.listen(3000);
 
-console.log("Servidor escutando na porta 3000...");
+console.log("Servidor escutando na porta 3000 ...");
